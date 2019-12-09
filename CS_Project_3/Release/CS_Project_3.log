@@ -1,0 +1,16 @@
+﻿  Animal.cpp
+  BlackBear.cpp
+  SeaLion.cpp
+  Tiger.cpp
+  Zoo.cpp
+C:\Users\austi\source\repos\CS_Project_3\CS_Project_3\Zoo.cpp(397,89): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\austi\source\repos\CS_Project_3\CS_Project_3\Zoo.cpp(398,72): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  driver.cpp
+C:\Users\austi\source\repos\CS_Project_3\CS_Project_3\Zoo.cpp(399,80): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\austi\source\repos\CS_Project_3\CS_Project_3\driver.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  95 of 173 functions (54.9%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS_Project_3.vcxproj -> C:\Users\austi\source\repos\CS_Project_3\Release\CS_Project_3.exe
